@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @audotqkash
+- 👀 I’m interested in motorcycle hacking by self made system using prototyping development kits.
+  - I enjoy electronics as a hobby!
+- 🌱 I’m currently learning Embedded Software Programming
+  - :pencil2: I using below programming language
+    - C, C++, Rust
+  - I wanna develop self made Operating System
